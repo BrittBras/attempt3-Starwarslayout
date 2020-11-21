@@ -1,8 +1,6 @@
-/*body {
-  background-image: url("https://backgrounddownload.com/star-wars-space-background-1/");
-  }
-   background-image: url(https://static-mh.content.disney.io/starwars/assets/navigation/sw_logo_stacked-336c62367939.png);
-    background-repeat: no-repeat; */
+body {
+  background-image: url(./images/swbg.jpg);
+}
 
   .topContainer {
    background-image: url(./images/swbg.jpg);
@@ -12,19 +10,7 @@
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
   }
-/*
-  #nav-sw-logo {
-    display: block;
-    top: 50%;
-    width: 100%;
-    max-width: 203px;
-    height: 10%;
-    max-height: 88px;
-    margin: -44px auto 0;
-    box-sizing: border-box;
-    background-image: url(https://static-mh.content.disney.io/starwars/assets/navigation/sw_logo_stacked-336c62367939.png);
-    background-size: contain;
-*/
+
   .rectangle {
     color:grey;
     width: 100px;
@@ -60,7 +46,6 @@
   border-radius: 5px;
 
 }
-/* start with grey search bar in the morning.  */
 
 .flex2 {
   display: flex;
@@ -68,13 +53,8 @@
 }
 
 .bg {
-  /* The image used */
   background-image: url("");
-
-  /* Full height */
   height: 50%; 
-
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
